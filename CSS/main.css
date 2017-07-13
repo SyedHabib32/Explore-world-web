@@ -1,0 +1,160 @@
+@font-face{
+ font-family: "Miss Neally";
+ src:url("../fonts/MissNeally.otf");
+}    
+
+body{
+    background-color: black;
+
+    margin: 0;
+
+}
+
+.header-shadow{
+
+    background-image: url('../images/cities.jpg');
+    background-color: black;
+    height: 600px;
+    max-height: 5000px;
+    min-height: 50px;
+    max-width: 5000px;
+    min-width: 50px;
+    background-size: 100% 100%;
+    }
+
+#search{
+    position: absolute;
+    font-size: 36px;
+    color: white;
+    display : inline;
+    vertical-align: middle;
+    border: 1px solid white;
+    background-color:black;
+    opacity: 0.7;
+    padding-top: 2px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+#search:hover{
+
+  color:pink;
+}
+
+.secondpart{
+
+    background-image: url('../images/e.jpg');
+    background-color: black;
+    height: 1500px;
+    max-height: 5000px;
+    min-height: 50px;
+    max-width: 5000px;
+    min-width: 50px;
+    /*opacity: 0.7;*/
+    background-repeat: no-repeat;
+    }
+
+#first_images{
+    padding-top: 80px;
+    padding-left: 60px;
+    display: inline;
+    }
+
+.hello{
+font-family: "Miss Neally";
+font-style: italic;
+color:white;
+font-size: 55px;
+text-align: center;
+padding: 50px;
+height: 10%;
+
+}
+.hello2{
+font-family: "Miss Neally";
+font-style: italic;
+color:white;
+font-size: 55px;
+text-align: center;
+padding: 50px;
+height: 10%;
+text-shadow: 2px 3px gray;
+}
+
+
+.hello1{
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+color:white;
+font-size: 12pt;
+text-align: center;
+/*padding: 50px;*/
+
+}
+
+
+.beach { 
+   position: absolute; 
+   margin: 75px 130px;
+   font-family: arial;
+   font-weight: bold;
+   font-size: 28pt; 
+   color: white;
+   /*display: none;*/
+   text-shadow: 1.5px 3px  black;
+}
+
+
+.culture { 
+   position: absolute; 
+    margin: 75px 50px;
+   font-family: arial;
+   font-weight: bold;
+   font-size: 28pt;
+   display: inline;
+   color: white; 
+   text-shadow: 1.5px 3px  black;
+}
+
+
+.nature { 
+    color: white;
+   position: absolute; 
+    margin: 75px 60px ;
+   font-family: arial;
+   font-weight: bold;
+    display: inline;
+   font-size: 28pt; 
+   text-shadow: 1.5px 3px  black;
+}
+
+
+.cities { 
+    color: white;
+   position: absolute; 
+   margin: 75px 70px;
+   font-family: arial;
+    display: inline;
+   font-weight: bold;
+   font-size: 28pt; 
+   text-shadow: 1.5px 3px  black;}
+
+.b1:hover{
+opacity: 0.5;
+cursor: pointer;
+
+}
+/*.beach:hover{
+    opacity: 0.5;
+    cursor: pointer;   
+}*/
+.c1:hover{
+opacity: 0.5;
+cursor: pointer;}
+
+.n1:hover{
+opacity: 0.5;
+cursor: pointer;}
+
+.ci1:hover{
+opacity: 0.5;
+cursor: pointer;}
