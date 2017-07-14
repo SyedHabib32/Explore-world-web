@@ -40,6 +40,12 @@ body{
   color:pink;
 }
 
+#search:active{
+
+  color:pink;
+  border: 1px solid blue;
+}
+
 .secondpart{
 
     background-image: url('../images/e.jpg');
@@ -66,27 +72,45 @@ color:white;
 font-size: 55px;
 text-align: center;
 padding: 50px;
-height: 10%;
+height: 9%;
 
 }
+
 .hello2{
 font-family: "Miss Neally";
 font-style: italic;
 color:white;
 font-size: 55px;
 text-align: center;
-padding: 50px;
-height: 10%;
+padding: 50px;s
 text-shadow: 2px 3px gray;
 }
 
+.ex{
+font-family: "Miss Neally";
+font-style: italic;
+color:white;
+font-size: 55px;
+text-align: center;
+text-shadow: 2px 3px black;
+ border: 2px dotted blue;
+border-radius: 10px; 
+ width: 50%; 
+margin: auto;   
+text-shadow: 1px 1px 2px red;
+
+
+}
 
 .hello1{
 font-family: Arial, Helvetica, sans-serif;
 font-style: normal;
-color:white;
+color:#0f82fa;
+
 font-size: 12pt;
+text-shadow: 1px 1px 3px red;
 text-align: center;
+
 /*padding: 50px;*/
 
 }
@@ -158,3 +182,179 @@ cursor: pointer;}
 .ci1:hover{
 opacity: 0.5;
 cursor: pointer;}
+
+
+.turkey { 
+   margin-top: 20.8%;
+   margin-left: 5px;
+   position: absolute; 
+   /* margin: auto; */
+   font-family: arial;
+   vertical-align: bottom;
+   font-weight: bolder;
+   font-size: 28pt; 
+   color: white;
+   line-height: 0.5em;
+   /*display: none;*/
+    text-shadow: 1.5px 3px 3px  #3f0e03; 
+}
+
+.turkey:hover{
+
+    background-color: black;
+    color:red;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.pak { 
+     margin-top: 20.8%;
+   margin-left: 5px;
+  position: absolute; 
+   /* margin: auto; */
+   font-family: arial;
+   vertical-align: bottom;
+   font-weight: bolder;
+   font-size: 28pt; 
+   color: white;
+   line-height: 0.5em;
+   /*display: none;*/
+     text-shadow: 1.5px 3px 3px  #3f0e03; 
+}
+
+.pak:hover{
+
+    background-color: black;
+    color:red;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.mongolia { 
+     margin-top: 20.8%;
+   margin-left: 5px;
+  position: absolute; 
+   /* margin: auto; */
+   font-family: arial;
+   vertical-align: bottom;
+   font-weight: bolder;
+   font-size: 28pt; 
+   color: white;
+   line-height: 0.5em;
+   /*display: none;*/
+  text-shadow: 1.5px 3px 3px  #3f0e03; 
+}
+
+.mongolia:hover{
+
+    background-color: black;
+    color:red;
+    cursor: pointer;
+    opacity: 0.8;
+}
+.vietnam { 
+     margin-top: 20.8%;
+   margin-left: 5px;
+  position: absolute; 
+   /* margin: auto; */
+   font-family: arial;
+   vertical-align: bottom;
+   font-weight: bolder;
+   font-size: 28pt; 
+   color: white;
+   line-height: 0.5em;
+   /*display: none;*/
+  text-shadow: 1.5px 3px 3px  #3f0e03; 
+  
+}
+ 
+.vietnam:hover{
+
+    background-color: black;
+    color:red;
+    cursor: pointer;
+    opacity: 0.8;
+}
+ .second_images{
+    padding-top: 80px;
+    padding-left: 60px;
+    display: inline;
+    
+   }  
+
+   .bung { 
+
+  position: absolute; 
+   /* margin: auto; */
+   font-family: arial;
+     margin-left: 250px;
+     margin-top:8%;
+   font-weight: bolder;
+   font-size: 28pt; 
+   color: white;
+   /* line-height: 0.5em; */
+   /*display: none;*/
+     text-shadow: 1.5px 3px 3px  black; 
+}
+
+
+   .scuba { 
+
+  position: absolute; 
+   /* margin: auto; */
+      margin-left: 300px;
+     margin-top:8%;
+   font-family: arial;
+   font-weight: bolder;
+   font-size: 28pt; 
+   color: white;
+   /* line-height: 0.5em; */
+   /*display: none;*/
+     text-shadow: 1.5px 3px 3px  black; 
+}
+
+
+   .sky { 
+
+  position: absolute; 
+   /* margin: auto; */
+   font-family: arial;
+      margin-left: 330px;
+     margin-top:8%;
+   font-weight: bolder;
+   font-size: 28pt; 
+   color: white;
+   /* line-height: 0.5em; */
+   /*display: none;*/
+     text-shadow: 1.5px 3px 3px  black; 
+}
+
+
+   .surf { 
+ 
+  position: absolute; 
+   /* margin: auto; */
+   font-family: arial;
+  margin-left: 360px;
+     margin-top:8%;
+   font-weight: bolder; 
+   color: white;
+   /* line-height: 0.5em; */
+   /*display: none;*/
+     text-shadow: 1.5px 3px 3px  black; 
+}
+
+.third_images{
+    margin-top: 11%;
+}
+.DH{
+  font-family: "Miss Neally";
+font-style: italic;
+color:white;
+font-size: 55px;
+text-align: center;
+height: 10%; 
+margin-top: 5%;
+text-shadow: 2px 3px 3px grey; 
+
+}
