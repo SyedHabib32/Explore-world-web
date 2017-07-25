@@ -49,6 +49,7 @@ body{
 .secondpart{
 
     background-image: url('../images/e.jpg');
+    width: 100%;
     background-color: black;
     height: 1500px;
     max-height: 5000px;
@@ -118,12 +119,12 @@ text-align: center;
 
 .beach { 
    position: absolute; 
-   margin: 75px 130px;
+       margin: 75px 69px;
    font-family: arial;
    font-weight: bold;
    font-size: 28pt; 
    color: white;
-   /*display: none;*/
+   display: inline;
    text-shadow: 1.5px 3px  black;
 }
 
@@ -185,7 +186,7 @@ cursor: pointer;}
 
 
 .turkey { 
-   margin-top: 20.8%;
+       margin-top: 13.8%;
    margin-left: 5px;
    position: absolute; 
    /* margin: auto; */
@@ -208,7 +209,7 @@ cursor: pointer;}
 }
 
 .pak { 
-     margin-top: 20.8%;
+         margin-top: 13.8%;
    margin-left: 5px;
   position: absolute; 
    /* margin: auto; */
@@ -231,7 +232,7 @@ cursor: pointer;}
 }
 
 .mongolia { 
-     margin-top: 20.8%;
+         margin-top: 13.8%;
    margin-left: 5px;
   position: absolute; 
    /* margin: auto; */
@@ -253,7 +254,7 @@ cursor: pointer;}
     opacity: 0.8;
 }
 .vietnam { 
-     margin-top: 20.8%;
+        margin-top: 13.8%;
    margin-left: 5px;
   position: absolute; 
    /* margin: auto; */
